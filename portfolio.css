@@ -65,7 +65,7 @@
 
   @media (max-width: 430px) {
       .row1 {
-        margin-left: -495px;
+        margin-left: -484px;
       }
 
   }
@@ -109,6 +109,10 @@
       margin-left: 662px;
 
   }
+  @media (max-width: 430px) {
+.ro-1{
+    margin-left: 623px;
+}
 
   .ro-2 {
       color: rgb(255, 165, 0);
@@ -146,7 +150,7 @@
       margin-left: 0px;
   }
   @media (max-width: 430px) {
- .edu{ margin-left: -477px;;
+ .edu{ margin-left: -22px;;
 }
   }  
 
@@ -190,6 +194,12 @@
       margin-top: 124px;
       margin-left: 718px;
   }
+  @media (max-width: 430px) {
+    .ro-3{
+        margin-left: 730px;
+    }  
+    }
+    
 
   .front {
       margin-top: 26px;
@@ -202,6 +212,11 @@
       margin-top: 27px;
 
   }
+  @media (max-width: 430px) {
+  .but{
+    width: 25%;
+    margin-left: 673px;  }
+}
 
   .but-1 {
       background-color: rgb(255, 165, 0);
@@ -224,6 +239,11 @@
       margin-left: 621px;
       margin-top: 27px;
   }
+  @media (max-width: 430px) {
+    .but-2{
+      margin-left: 638px;  }
+  }
+  
 
   .but-3 {
       background-color: rgb(255, 165, 0);
@@ -317,7 +337,7 @@
   }
   @media (max-width: 430px) {
 .ro-4{
-    margin-left: 68px;
+    margin-left: 37px;
 }  
 }
 
@@ -367,9 +387,9 @@
 
   @media (max-width: 430px) {
       .project {
-          margin-left: 159px;
-          padding-top: 10px;
-      }
+        margin-left: 41px;
+        padding-top: 130px;
+        width: 87%;      }
   }
 
   .tech {
@@ -413,11 +433,11 @@
           margin-left: -592px;
       }
 
-      .know {
+      /* .know {
           margin-left: 294px;
           width: 90%;
 font-size: smaller;
-      }
+      } */
   }
 
 
@@ -433,9 +453,8 @@ font-size: smaller;
 
   @media (max-width: 430px) {
       .pro-head {
-          padding-left: 80px;
-          padding-top: 10px;
-      }
+        padding-left: 90px;
+        padding-top: 1px      }
 
 
 
@@ -465,5 +484,13 @@ font-size: smaller;
           
         }
       }
+      @media (max-width: 430px) {
+        .rows {
+          margin-left: 54px;
+          width: 75%;
+        }
   
-    
+    }
+  
+  
+}
