@@ -1,8 +1,10 @@
   @import url('https://fonts.googleapis.com/css2?family=Anton&family=Delicious+Handrawn&family=Edu+NSW+ACT+Foundation:wght@500&family=Oswald:wght@500&family=Quicksand:wght@300&family=Roboto+Condensed:wght@700&family=Sofia+Sans+Condensed&display=swap');
 
   body {
-      background-color: rgb(43, 42, 42);
-  }
+      background-image: url(./images/bg.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
 
   .navbar {
       position: sticky;
