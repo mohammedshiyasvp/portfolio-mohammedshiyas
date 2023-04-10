@@ -1,0 +1,418 @@
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Delicious+Handrawn&family=Edu+NSW+ACT+Foundation:wght@500&family=Oswald:wght@500&family=Quicksand:wght@300&family=Roboto+Condensed:wght@700&family=Sofia+Sans+Condensed&display=swap');
+
+  body {
+      background-color: rgb(43, 42, 42);
+  }
+  .navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+
+  }
+
+  .navbar-brand {
+      color: rgb(255, 165, 0);
+      margin-left: 119px;
+      font-size: xx-large;
+
+  }
+
+  @media (max-width: 846px) {
+      .navbar-brand {
+          font-size: medium;
+      }
+  }
+
+  .top1 {
+      color: rgb(255, 165, 0);
+  }
+
+  .top {
+      color: black;
+  }
+
+  .top:hover {
+      color: rgb(255, 165, 0);
+
+  }
+
+  .top2 {
+      color: white;
+  }
+
+  .top-4 {
+      color: rgb(255, 165, 0);
+  }
+
+  .row {
+      margin-top: 144px;
+      margin-left: 130px;
+      
+
+  }
+
+  @media (max-width: 846px) {
+      .row {
+          margin-top: 100px;
+          margin-left: 0px;
+
+      }
+  }
+  @media (max-width: 846px) {
+    .row1 {
+        margin-left: -366px;
+
+    }
+}
+
+
+
+
+
+
+  .row2 {
+      margin-top: 18px;
+  }
+  @media (max-width: 846px) {
+    .row2{
+        margin-left: 46px;
+    }
+
+  }
+
+  .my-img {
+      width: 58%;
+      height: 300px;
+  }
+      /* margin-top: -19px;
+      margin-left: -80px; */
+   
+   @media (max-width: 846px) {
+    .my-img {
+        margin-top: -9px;
+        margin-left: 221px;
+        }
+} 
+
+
+
+  .ro-1 {
+      color: rgb(255, 165, 0);
+      margin-top: 180px;
+      margin-left: 662px;
+
+  }
+
+  .ro-2{
+    color: rgb(255, 165, 0);
+
+  }
+
+
+
+
+
+  .aboutme {
+      text-align: center;
+      font-size: larger;
+      height: 100px;
+      border-radius: 30px;
+      padding: 2px;
+      text-align: left 2px;
+      background-color: white;
+  }
+
+  @media (max-width: 846px) {
+      .aboutme {
+          font-size:smaller;
+          height: 127px;
+          padding: 5px;
+      }
+  }
+
+
+  .aboutme:hover {
+      background-color: rgb(255, 165, 0);
+      color: white;
+
+  }
+
+  .edu {
+      color: white;
+      text-align: center;
+      margin-left: 0px;
+  }
+
+  .edu-1 {
+      width: 46%;
+      height: 253px;
+      font-size: medium;
+      text-align: center;
+      background-color: white;
+      justify-content: center;
+      transition: 1s ease-in-out;
+
+  }
+
+  .edu-1:hover {
+      background-color: rgb(66, 186, 150);
+      border: 2px solid white;
+      color: white;
+      transform: scale(1.05);
+  }
+
+  .edu-2 {
+      width: 46%;
+      height: 253px;
+      font-size: medium;
+      text-align: center;
+      background-color: white;
+      justify-content: center;
+      transition: 1s ease-in-out;
+      margin-top: 2px;
+  }
+
+  .edu-2:hover {
+      background-color: rgb(66, 186, 150);
+      border: 2px solid white;
+      color: white;
+      transform: scale(1.05);
+  }
+
+  .ro-3 {
+      margin-top: 124px;
+      margin-left: 718px;
+  }
+
+  .front {
+      margin-top: 26px;
+      margin-left: 721px;
+      color: white;
+  }
+
+  .but {
+      margin-left: 570px;
+      margin-top: 27px;
+
+  }
+
+  .but-1 {
+      background-color: rgb(255, 165, 0);
+      border: none;
+  }
+
+  .but-1:hover {
+      background-color: white;
+      color: black;
+  }
+
+  .front-1 {
+      margin-left: 726px;
+      margin-top: 26px;
+
+      color: white;
+  }
+
+  .but-2 {
+      margin-left: 621px;
+      margin-top: 27px;
+  }
+
+  .but-3 {
+      background-color: rgb(255, 165, 0);
+      border: none;
+  }
+
+  .but-3:hover {
+      background-color: white;
+      color: black;
+  }
+
+  .front-2 {
+      margin-left: 689px;
+      margin-top: 26px;
+      color: white;
+
+  }
+
+  .but-4 {
+      margin-left: 722px;
+      margin-top: 27px;
+  }
+
+  .but-5 {
+      background-color: rgb(255, 165, 0);
+      border: none;
+  }
+
+  .but-5:hover {
+      background-color: white;
+      color: black;
+  }
+
+  .front-3 {
+      margin-left: 676px;
+      margin-top: 26px;
+      color: white;
+
+  }
+
+  .but-6 {
+      margin-left: 743px;
+      margin-top: 27px;
+  }
+
+  .but-7 {
+      background-color: rgb(255, 165, 0);
+      border: none;
+  }
+
+  .but-7:hover {
+      background-color: white;
+      color: black;
+  }
+
+  .front-4 {
+      margin-left: 699px;
+      margin-top: 26px;
+      color: white;
+
+  }
+
+  .web {
+      text-align: center;
+      color: black;
+      background-color: white;
+      height: 145px;
+      border-radius: 100px;
+      transition: 1s ease-out;
+  }
+
+  @media (max-width: 846px) {
+      .web {
+          font-size: xx-small;
+      }
+  }
+
+
+  .web:hover {
+      background-color: rgb(255, 165, 0);
+      color: white;
+      transform: scale(1.05);
+  }
+
+  .ro-4 {
+      margin-top: 113px;
+      margin-left: 176px;
+  }
+  @media (max-width: 846px) {
+    .pro{
+        margin-left: -447;
+    }
+
+  }
+  .decor {
+      color: rgb(255, 165, 0);
+      text-decoration: none;
+  }
+
+  .decor1 {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      transition: 1s ease-in-out;
+  }
+
+  .decor1:hover {
+      transform: scale(1.05);
+
+  }
+
+  .rad {
+      border-radius: 0px;
+  }
+
+  .card {
+      height: 400px;
+      width: 90%;
+  }
+
+  .box-color {
+      background-color: rgb(255, 165, 0);
+      color: white;
+      padding-top: 2px;
+  }
+
+
+  .project {
+      margin-top: -87px;
+      margin-left: -12px;
+  }
+  @media (max-width: 846px) {
+.project{
+    margin-left: 79px;
+    padding-top: 10px;
+}
+  }
+  .tech {
+      color: rgb(255, 165, 0);
+
+
+  }
+
+  .ro-5 {
+      margin-top: 80px;
+      margin-left: 687px;
+  }
+
+  @media (max-width: 846px) {
+      .ro-5 {
+        margin-left: 267px;
+      }
+  }
+
+  .foot {
+      width: 28%;
+      height: 346px;
+      text-align: left;
+      border-radius: 25px;
+      background-color: rgb(255, 165, 0);
+      color: white;
+      font-size: 12px;
+      font-family: 'Oswald', sans-serif;
+  }
+
+  @media (max-width: 846px) {
+    .foot{
+        font-size: 10px;
+ 
+    }
+      .last{
+        margin-left: -450px;
+      }
+      .know{
+        margin-left: 60px;
+ 
+      }
+  }
+
+
+  .foot:hover {
+      background-color: white;
+      color: black;
+  }
+  .pro-head{
+    padding-left: 494px;
+    padding-top: 10px;
+  }
+  @media (max-width: 846px) {
+    .pro-head {
+        padding-left: 80px;
+        padding-top: 10px;
+    } 
+
+}
+@media (max-width: 846px) {
+.car{
+    margin-top: 4px;
+
+}
+}
