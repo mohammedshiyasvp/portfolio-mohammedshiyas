@@ -114,7 +114,7 @@
     margin-left: 623px;
 }
 
-  .ro-2 {
+ } .ro-2 {
       color: rgb(255, 165, 0);
 
   }
@@ -150,7 +150,7 @@
       margin-left: 0px;
   }
   @media (max-width: 430px) {
- .edu{ margin-left: -22px;;
+ .edu{ margin-left: 8px;;
 }
   }  
 
@@ -381,14 +381,13 @@
 
 
   .project {
-      margin-top: -87px;
-      margin-left: -12px;
-  }
+    margin-top: 35px;
+    margin-left: 113px;  }
 
   @media (max-width: 430px) {
       .project {
         margin-left: 41px;
-        padding-top: 130px;
+        padding-top: -9px;
         width: 87%;      }
   }
 
@@ -471,16 +470,22 @@ font-size: smaller;
         margin-left: -3px;
         font-size: 12px;    }
       }
+      .char{
+        align-items: center;
+      }
       @media (max-width: 430px) {
       .char{
-        font-size: -55px;
-        margin-top: 10px;
+        font-size: 7px;
       }
     }
+    .char{
+        align-items: center;
+      }
+
     @media (max-width: 430px) {
         .char1{
-          font-size: -45px;
-          margin-top: 10px;
+            margin-left: 16px;
+            font-size: 12px;
           
         }
       }
@@ -491,6 +496,17 @@ font-size: smaller;
         }
   
     }
+    @media (max-width: 430px) {
+.new{
+    margin-left: 6px;
+    margin-top: 10px;}
   
-  
-}
+    }
+    @media (max-width: 430px) {
+        .new1{
+          font-size:12px ;
+          padding-top: 15px;
+          padding-left: 2px;
+            }
+        
+        }
